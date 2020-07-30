@@ -1,0 +1,32 @@
+.secone{
+    position: relative;
+    margin: 20vh 20px 0 20px;
+    text-align: left;
+}
+
+.secone .h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.imgone{
+    margin-left: 130vh;
+}
+
+.image2{
+    width: 100vh;
+    height: 100vh;
+    margin-left: 100vh;
+}
+
+.para{
+    text-align: left;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.footer{
+    font-size: 30px;
+
+    font-weight: bold;
+    color:white;
+}
